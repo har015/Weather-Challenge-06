@@ -1,4 +1,4 @@
-# weather-app
+# Weather App Challenge
 
 Depoloy:https://har015.github.io/weather-app/
 
@@ -11,4 +11,4 @@ Depoloy:https://har015.github.io/weather-app/
 
 Preview:
 
-![image](https://user-images.githubusercontent.com/111612523/198413556-5dd0b5d9-cd5f-4a3d-837a-70aab3d36fee.png)
+![image](https://user-images.githubusercontent.com/111612523/218607115-ebe23e48-4e4b-4b78-af78-3978a2f72802.png)
